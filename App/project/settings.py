@@ -79,8 +79,8 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'CafeteriaDB',
         },
-    },
-}
+    }
+
 
 
 # Password validation
